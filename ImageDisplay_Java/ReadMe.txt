@@ -10,4 +10,8 @@ To run the code from command line, first compile with:
 and then, you can run it with the path to the RGB file as a parameter
 
 >> Usage: java ImageDisplay <path to rgb file>
->> Example: java ImageDisplay ../Lena_512_512.rgb        
+>> Example: java ImageDisplay ../Lena_512_512.rgb  
+
+Did not do extra credit
+
+Please end program manually after seeing image pop up with Ctrl C
